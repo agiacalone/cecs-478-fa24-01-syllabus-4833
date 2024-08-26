@@ -45,7 +45,7 @@ By the conclusion of this course, students will be able to:
 
 ### Tentative Class Schedule
 
-|  Week      | Subject                                              |
+| Week       | Subject                                              |
 |------------|------------------------------------------------------|
 | Aug 26     | Introduction to Computer Security and Hacking        |
 | Sep  2     | Tools, Setup, Environments, VMs/Containers           |
