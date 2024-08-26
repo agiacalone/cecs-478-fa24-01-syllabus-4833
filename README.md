@@ -1,16 +1,16 @@
 # Introduction to Computer Security
 
-## CECS 478: Section 2 (7745)
+## CECS 478: Section 1 (4833)
 
-### Spring 2024
+### Fall 2024
 
 | Class Lecture | Time                | Room    |
 |---------------|---------------------|---------|
-| Mon Wed       | 11:00 AM - 12:15 PM | ECS-302 |
+| Mon Wed       | 11:00 AM - 12:15 PM | ECS-30 |
 
 | Instructor        | Email                       | Office  | Office Hours               |
 |-------------------|-----------------------------|---------|----------------------------|
-| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-530 | 10:00 - 11:00 AM Mon-Thu   |
+| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-501 | 10:00 - 11:00 AM Mo,Tu,We,Th |
 
 ### Required Textbook
 
@@ -45,24 +45,24 @@ By the conclusion of this course, students will be able to:
 
 ### Tentative Class Schedule
 
-| Week | Subject                                             |
-|------|-----------------------------------------------------|
-| 1    | Introduction to Computer Security and Hacking (Ch 1)|
-| 2    | Programming for Hackers (Ch 2)                      |
-| 3    | Exploitation (Ch 3)                                 |
-| 4    | Exploitation, ctd.                                  |
-| 5    | First exam, Networking (Ch 4)                       |
-| 6    | Networking, ctd.                                    |
-| 7    | Shellcode (Ch 5)                                    |
-| 8    | Shellcode, ctd.                                     |
-| 9    | Second Exam, Countermeasures (Ch 6)                 |
-| 10   | **Spring Break**                                    |
-| 11   | Countermeasures, ctd.                               |
-| 12   | Cryptography/Cryptology (Ch 7)                      |
-| 13   | Crypto, ctd.                                        |
-| 14   | Crypto, ctd.                                        |
-| 15   | Case Studies in Hacking                             |
-| 16   | Case Study, Final Exam                              |
+|  Week      | Subject                                             |
+|------------|-----------------------------------------------------|
+| Aug 26     | Introduction to Computer Security and Hacking (Ch 1)|
+| Sep  2     | Intro, tools, setup, environments                   |
+| Sep  9     | Cryptography                                        |
+| Sep 16     | Cryptography, ctd.                                  |
+| Sep 23     | Cryptography, ctd.                                  |
+| Sep 25     | First exam, Malware                                 |
+| Sep 30     | Denial of Service                                   |
+| Oct  7     | DoS, ctd.                                           |
+| Oct 14     |                  |
+| Oct 21     |                  |
+| Oct 28     |                  |
+| Nov  4     | Second Exam                                         |
+| Nov 11     |                  |
+| Nov 18     |                  |
+| Nov 25     | Fall Break                                          |
+| Dec 2-9    | Case Studies, Final Exam                            |
 
 ### Exams
 
