@@ -52,8 +52,7 @@ By the conclusion of this course, students will be able to:
 | Sep  9     | Cryptography                                         |
 | Sep 16     | Cryptography, ctd.                                   |
 | Sep 23     | Cryptography, ctd.                                   |
-| Sep 25     | First exam, Malware                                  |
-| Sep 30     | Malware, ctd.                                        |
+| Sep 30     | First exam, Malware                                  |
 | Oct  7     | Networking                                           |
 | Oct 14     | Networking, ctd.                                     |
 | Oct 21     | Denial of Service                                    |
