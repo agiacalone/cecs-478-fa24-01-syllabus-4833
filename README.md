@@ -47,8 +47,8 @@ By the conclusion of this course, students will be able to:
 
 |  Week      | Subject                                              |
 |------------|------------------------------------------------------|
-| Aug 26     | Introduction to Computer Security and Hacking (Ch 1) |
-| Sep  2     | Intro, tools, setup, environments                    |
+| Aug 26     | Introduction to Computer Security and Hacking        |
+| Sep  2     | Tools, Setup, Environments, VMs/Containers           |
 | Sep  9     | Cryptography                                         |
 | Sep 16     | Cryptography, ctd.                                   |
 | Sep 23     | Cryptography, ctd.                                   |
