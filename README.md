@@ -34,35 +34,35 @@ By the conclusion of this course, students will be able to:
 * Know how to design and analyze a secure computer system in general
 * Have a solid understanding of current, topical issues in computer security
 
-| Grading           |      | | Grade Scale |    |
-|-------------------|------|-|-------------|----|
-| Homework and Labs | 35%  | | >= 90%      | A  |
-| Exam One          | 20%  | | 80% - 89%   | B  |
-| Exam Two          | 20%  | | 70% - 79%   | C  |
-| Final Exam        | 25%  | | 60% - 69%   | D  |
-|                   |      | | < 60%       | F  |
-| **Total**         | 100% | |             |    |
+| Grading           |      | | Grade Scale |   |
+|-------------------|------|-|-------------|---|
+| Homework and Labs | 35%  | | >= 90%      | A |
+| Exam One          | 20%  | | 80% - 89%   | B |
+| Exam Two          | 20%  | | 70% - 79%   | C |
+| Final Exam        | 25%  | | 60% - 69%   | D |
+|                   |      | | < 60%       | F |
+| **Total**         | 100% | |             |   |
 
 ### Tentative Class Schedule
 
-|  Week      | Subject                                             |
-|------------|-----------------------------------------------------|
-| Aug 26     | Introduction to Computer Security and Hacking (Ch 1)|
-| Sep  2     | Intro, tools, setup, environments                   |
-| Sep  9     | Cryptography                                        |
-| Sep 16     | Cryptography, ctd.                                  |
-| Sep 23     | Cryptography, ctd.                                  |
-| Sep 25     | First exam, Malware                                 |
-| Sep 30     | Denial of Service                                   |
-| Oct  7     | DoS, ctd.                                           |
-| Oct 14     |                  |
-| Oct 21     |                  |
-| Oct 28     |                  |
-| Nov  4     | Second Exam                                         |
-| Nov 11     |                  |
-| Nov 18     |                  |
-| Nov 25     | Fall Break                                          |
-| Dec 2-9    | Case Studies, Final Exam                            |
+|  Week      | Subject                                              |
+|------------|------------------------------------------------------|
+| Aug 26     | Introduction to Computer Security and Hacking (Ch 1) |
+| Sep  2     | Intro, tools, setup, environments                    |
+| Sep  9     | Cryptography                                         |
+| Sep 16     | Cryptography, ctd.                                   |
+| Sep 23     | Cryptography, ctd.                                   |
+| Sep 25     | First exam, Malware                                  |
+| Sep 30     | Malware, ctd.                                        |
+| Oct  7     | Networking                                           |
+| Oct 14     | Networking, ctd.                                     |
+| Oct 21     | Denial of Service                                    |
+| Oct 28     | DoS, ctd.                                            |
+| Nov  4     | Second Exam, Arbitrary Code Execution                |
+| Nov 11     | ACE, ctd.                                            |
+| Nov 18     | OS Security                                          |
+| Nov 25     | Fall Break                                           |
+| Dec 2-9    | Case Studies, Final Exam                             |
 
 ### Exams
 
