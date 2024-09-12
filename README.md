@@ -53,9 +53,9 @@ By the conclusion of this course, students will be able to:
 | Sep 16     | Cryptography, ctd.                                   |
 | Sep 23     | Cryptography, ctd.                                   |
 | Sep 30     | First exam, Malware                                  |
-| Oct  7     | Networking                                           |
-| Oct 14     | Networking, ctd.                                     |
-| Oct 21     | Denial of Service                                    |
+| Oct  7     | Malware, ctd.                                        |
+| Oct 14     | Malware, ctd.                                        |
+| Oct 21     | Denial of Service & Networking                       |
 | Oct 28     | DoS, ctd.                                            |
 | Nov  4     | Second Exam, Arbitrary Code Execution                |
 | Nov 11     | ACE, ctd.                                            |
